@@ -65,6 +65,8 @@ Vermelho Vinho #7A1F2B – destaques e interações
 
 Foram analisados os sites oficiais de parques temáticos de referência no mercado:
 
+Thermas dos Laranjais
+
 Hopi Hari
 
 Beto Carrero World
