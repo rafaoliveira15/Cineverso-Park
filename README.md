@@ -4,7 +4,7 @@ O mundo onde os maiores filmes ganham vida
 
 ---
 
-##📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 O Cineverso Park é um projeto acadêmico desenvolvido com o objetivo de criar o conceito e o protótipo de uma Landing Page para um parque temático inspirado em grandes produções cinematográficas. A proposta é reunir diferentes franquias e gêneros do cinema em um único parque, oferecendo ao visitante uma experiência imersiva, interativa e visualmente impactante.
 
@@ -12,7 +12,7 @@ O projeto simula a atuação de uma agência de tecnologia, integrando design (U
 
 ---
 
-##🎯 Objetivo
+## 🎯 Objetivo
 
 Desenvolver um protótipo de alta fidelidade
 
@@ -26,13 +26,13 @@ Traduzir emoção, entretenimento e cinema em uma experiência digital
 
 ---
 
-##🏰 Conceito do Parque
+## 🏰 Conceito do Parque
 
 O Cineverso Park é estruturado em ilhas cinematográficas, conectadas por uma avenida principal inspirada na Hollywood Boulevard, que funciona como entrada e eixo central do parque. Cada área representa um universo do cinema, com atrações, ambientação, lojas e restaurantes temáticos.
 
 ---
 
-##🌟 Áreas Temáticas
+## 🌟 Áreas Temáticas
 
 Mundo Mágico (fantasia)
 
@@ -48,7 +48,7 @@ Terror & Suspense (experiência com restrição de idade)
 
 ---
 
-##🎨 Identidade Visual
+## 🎨 Identidade Visual
 Paleta de Cores
 
 Preto Profundo #0B0B0D – fundo principal
@@ -61,7 +61,7 @@ Vermelho Vinho #7A1F2B – destaques e interações
 
 ---
 
-##🔍 Benchmarking (Pesquisa)
+## 🔍 Benchmarking (Pesquisa)
 
 Foram analisados os sites oficiais de parques temáticos de referência no mercado:
 
@@ -73,13 +73,13 @@ Disney World
 
 ---
 
-##📚 Contexto Acadêmico
+## 📚 Contexto Acadêmico
 
 Projeto desenvolvido para o curso Técnico em Desenvolvimento de Sistemas – SENAI/SP, como atividade avaliativa do 1º semestre de 2026, com foco em design, planejamento e experiência do usuário.
 
 ---
 
-##👩‍💻 Autoria
+## 👩‍💻 Autoria
 
 Projeto desenvolvido por:
 
